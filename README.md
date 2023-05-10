@@ -1,2 +1,2 @@
 # cinema-room-manager
-Full project here: https://hyperskill.org/projects/133?track=8
+Project description here: https://hyperskill.org/projects/133?track=8
